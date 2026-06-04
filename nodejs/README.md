@@ -2,25 +2,25 @@
 
 A curated set of beginner-friendly but interview-oriented notes covering core Node.js and backend web-development topics. Each file follows the same structure: definition, simple explanation, why it's used, key points, syntax, a practical example, a real-world use case, 5 interview Q&A, common mistakes, and advanced notes.
 
-> Part of the **web-dev-notes** open-source repo. Code samples use modern, correct Node.js.
+> Part of the **web-dev-notes** open-source repo. Code samples use modern, correct Node.js. Topic files are numbered (`1.event-loop.md` … `13.security-best-practices.md`) — start at **1** and work upward.
 
 ## Topics
 
 | # | Topic | Notes | Difficulty |
 |---|-------|-------|------------|
-| 1 | Event Loop | [event-loop.md](./event-loop.md) | 🟡 Intermediate |
-| 2 | Streams | [streams.md](./streams.md) | 🟡 Intermediate |
-| 3 | Buffers | [buffers.md](./buffers.md) | 🟡 Intermediate |
-| 4 | File System | [file-system.md](./file-system.md) | 🟢 Beginner |
-| 5 | Modules | [modules.md](./modules.md) | 🟢 Beginner |
-| 6 | NPM | [npm.md](./npm.md) | 🟢 Beginner |
-| 7 | Authentication | [authentication.md](./authentication.md) | 🔴 Advanced |
-| 8 | JWT | [jwt.md](./jwt.md) | 🟡 Intermediate |
-| 9 | Middleware | [middleware.md](./middleware.md) | 🟢 Beginner |
-| 10 | REST API | [rest-api.md](./rest-api.md) | 🟡 Intermediate |
-| 11 | Cluster | [cluster.md](./cluster.md) | 🔴 Advanced |
-| 12 | Child Process | [child-process.md](./child-process.md) | 🔴 Advanced |
-| 13 | Security Best Practices | [security-best-practices.md](./security-best-practices.md) | 🔴 Advanced |
+| 1 | Event Loop | [1.event-loop.md](./1.event-loop.md) | 🟡 Intermediate |
+| 2 | Streams | [streams.md](./2.streams.md) | 🟡 Intermediate |
+| 3 | Buffers | [buffers.md](./3.buffers.md) | 🟡 Intermediate |
+| 4 | File System | [file-system.md](./4.file-system.md) | 🟢 Beginner |
+| 5 | Modules | [modules.md](./5.modules.md) | 🟢 Beginner |
+| 6 | NPM | [npm.md](./6.npm.md) | 🟢 Beginner |
+| 7 | Authentication | [authentication.md](./7.authentication.md) | 🔴 Advanced |
+| 8 | JWT | [jwt.md](./8.jwt.md) | 🟡 Intermediate |
+| 9 | Middleware | [middleware.md](./9.middleware.md) | 🟢 Beginner |
+| 10 | REST API | [rest-api.md](./10.rest-api.md) | 🟡 Intermediate |
+| 11 | Cluster | [cluster.md](./11.cluster.md) | 🔴 Advanced |
+| 12 | Child Process | [child-process.md](./12.child-process.md) | 🔴 Advanced |
+| 13 | Security Best Practices | [security-best-practices.md](./13.security-best-practices.md) | 🔴 Advanced |
 
 ## Difficulty Legend
 

@@ -17,11 +17,11 @@ This folder holds shared resources used across the notes: diagrams, images, scre
 
 | Diagram | Used In |
 | :--- | :--- |
-| JavaScript Event Loop phases | `javascript/event-loop.md`, `nodejs/event-loop.md` |
-| Prototype chain | `javascript/prototype.md` |
-| Scope chain & closures | `javascript/scope.md`, `javascript/closures.md` |
-| React Virtual DOM diffing | `react/virtual-dom.md`, `react/reconciliation.md` |
-| Request/middleware pipeline | `expressjs/middleware.md` |
-| System design building blocks | `interview-preparation/system-design-basics.md` |
+| JavaScript Event Loop phases | `javascript/9.event-loop.md`, `nodejs/1.event-loop.md` |
+| Prototype chain | `javascript/13.prototype.md` |
+| Scope chain & closures | `javascript/4.scope.md`, `javascript/5.closures.md` |
+| React Virtual DOM diffing | `react/12.virtual-dom.md`, `react/13.reconciliation.md` |
+| Request/middleware pipeline | `expressjs/2.middleware.md` |
+| System design building blocks | `interview-preparation/3.system-design-basics.md` |
 
 > 💡 Many notes use inline **Mermaid** and ASCII diagrams (rendered by GitHub) so they need no image files. Add binary diagrams here only when they add real value.

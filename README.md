@@ -58,10 +58,10 @@ web-dev-notes/
 ├── expressjs/                    # Express.js interview topics
 ├── assets/                       # Images, diagrams & shared resources
 └── interview-preparation/        # Cross-cutting interview material
-    ├── frontend-interview-questions.md
-    ├── backend-interview-questions.md
-    ├── hr-interview-questions.md
-    └── system-design-basics.md
+    ├── 1.frontend-interview-questions.md
+    ├── 2.backend-interview-questions.md
+    ├── 4.hr-interview-questions.md
+    └── 3.system-design-basics.md
 ```
 
 ---
@@ -98,7 +98,7 @@ Every topic file follows the exact same structure for consistency and fast revis
 ## 🚦 How to Use These Notes
 
 1. **Pick a technology** based on the role you're targeting (e.g. React for frontend, Node.js for backend).
-2. **Go folder by folder**, top to bottom — topics are ordered from fundamentals to advanced.
+2. **Go folder by folder** — each topic file is prefixed with a number (`1.variables.md`, `2.data-types.md`, …) showing the recommended learning order.
 3. **Use the template sections strategically:**
    - Short on time? Read sections **1, 2, 4, and 8**.
    - Deep prep? Read the whole file and run the **Example** code yourself.

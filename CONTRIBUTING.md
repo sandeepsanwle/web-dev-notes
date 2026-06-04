@@ -34,7 +34,7 @@ Every topic file **must** follow this exact 10-section structure:
 
 1. **Fork** the repository.
 2. Create a branch: `git checkout -b add/<topic-name>`.
-3. Add or edit markdown files. Use **kebab-case** filenames (e.g. `async-await.md`).
+3. Add or edit markdown files. Use **numbered kebab-case** filenames (e.g. `8.async-await.md`) — the number is the recommended learning order.
 4. If you add a topic, link it in the relevant folder's `README.md` index **and** the progress checklist in the root `README.md`.
 5. **Commit** with a clear message: `docs: add notes on <topic>`.
 6. **Push** and open a **Pull Request**.
