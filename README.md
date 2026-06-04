@@ -35,7 +35,7 @@ Every topic follows the **same consistent 10-section interview template**, so yo
 
 | Technology | Area | Folder | Topics |
 | :--- | :--- | :--- | :---: |
-| ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | Frontend / Core | [`/javascript`](./javascript) | 23 |
+| ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | Frontend / Core | [`/javascript`](./javascript) | 24 |
 | ![TS](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) | Frontend / Core | [`/typescript`](./typescript) | 13 |
 | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) | Frontend | [`/react`](./react) | 18 |
 | ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) | Frontend | [`/angular`](./angular) | 17 |
@@ -154,6 +154,7 @@ flowchart TD
 - [ ] Promise
 - [ ] Async/Await
 - [ ] Event Loop
+- [ ] Microtask & Macrotask Queue
 - [ ] Array Methods
 - [ ] Objects
 - [ ] this Keyword
